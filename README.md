@@ -1,1 +1,3 @@
-# agrinho-2025
+# Site Agrinho 2025
+
+Projeto sobre interdependência urbano-rural
